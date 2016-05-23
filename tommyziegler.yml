@@ -22,6 +22,7 @@
         - vagrant
         - unetbootin
         - virtualbox
+        - dockertoolbox
     - name: create ssh directory
       become: yes
       file:
