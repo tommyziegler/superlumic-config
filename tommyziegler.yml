@@ -23,6 +23,7 @@
         - unetbootin
         - virtualbox
         - dockertoolbox
+        - tree
     - name: create ssh directory
       become: yes
       file:
