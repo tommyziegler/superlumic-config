@@ -12,6 +12,7 @@
     - htop
     - watch
     - rsync
+    - tree
 
 - name: install developer cask applications
   homebrew_cask: name={{item}} state=present
